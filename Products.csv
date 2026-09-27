@@ -1,0 +1,50 @@
+﻿Product ID,Product Name,Category,Sub Category,Price
+PROD0001,Laptop 00,Electronics,Technology,95870
+PROD0002,Laptop 01,Electronics,Technology,67570
+PROD0003,Laptop 02,Electronics,Technology,72840
+PROD0004,Mobile 03,Electronics,Technology,35350
+PROD0005,Mobile 04,Electronics,Technology,43880
+PROD0006,Mobile 05,Electronics,Technology,33500
+PROD0007,Tablet 06,Electronics,Technology,57480
+PROD0008,Tablet 07,Electronics,Technology,56120
+PROD0009,Tablet 08,Electronics,Technology,20280
+PROD0010,Monitor 09,Electronics,Technology,43590
+PROD0011,Monitor 10,Electronics,Technology,31880
+PROD0012,Monitor 11,Electronics,Technology,38830
+PROD0013,Keyboard 12,Electronics,Technology,3740
+PROD0014,Keyboard 13,Electronics,Technology,2570
+PROD0015,Keyboard 14,Electronics,Technology,3860
+PROD0016,Headphones 15,Electronics,Technology,17420
+PROD0017,Headphones 16,Electronics,Technology,5740
+PROD0018,Headphones 17,Electronics,Technology,14780
+PROD0019,Office Chair 18,Furniture,Home & Office,15760
+PROD0020,Office Chair 19,Furniture,Home & Office,14670
+PROD0021,Office Chair 20,Furniture,Home & Office,13710
+PROD0022,Desk 21,Furniture,Home & Office,27470
+PROD0023,Desk 22,Furniture,Home & Office,14520
+PROD0024,Desk 23,Furniture,Home & Office,30850
+PROD0025,Bookshelf 24,Furniture,Home & Office,15630
+PROD0026,Bookshelf 25,Furniture,Home & Office,5210
+PROD0027,Bookshelf 26,Furniture,Home & Office,16340
+PROD0028,Sofa 27,Furniture,Home & Office,30680
+PROD0029,Sofa 28,Furniture,Home & Office,42160
+PROD0030,Sofa 29,Furniture,Home & Office,49740
+PROD0031,Coffee Table 30,Furniture,Home & Office,11440
+PROD0032,Coffee Table 31,Furniture,Home & Office,5490
+PROD0033,Coffee Table 32,Furniture,Home & Office,19470
+PROD0034,Notebook 33,Office Supplies,Stationery,160
+PROD0035,Notebook 34,Office Supplies,Stationery,170
+PROD0036,Notebook 35,Office Supplies,Stationery,420
+PROD0037,Printer Paper 36,Office Supplies,Stationery,470
+PROD0038,Printer Paper 37,Office Supplies,Stationery,820
+PROD0039,Printer Paper 38,Office Supplies,Stationery,710
+PROD0040,Pen Set 39,Office Supplies,Stationery,240
+PROD0041,Pen Set 40,Office Supplies,Stationery,110
+PROD0042,Pen Set 41,Office Supplies,Stationery,570
+PROD0043,Stapler 42,Office Supplies,Stationery,180
+PROD0044,File Folder 43,Office Supplies,Stationery,270
+PROD0045,Backpack 44,Accessories,Computer Accessories,3390
+PROD0046,Mouse 45,Accessories,Computer Accessories,3530
+PROD0047,USB Cable 46,Accessories,Computer Accessories,880
+PROD0048,Power Bank 47,Accessories,Computer Accessories,3550
+PROD0049,Webcam 48,Accessories,Computer Accessories,5330

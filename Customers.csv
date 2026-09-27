@@ -1,0 +1,121 @@
+﻿Customer ID,Customer Name,City,State,Age,Gender,Segment
+CUST0001,Arjun Sharma,Chandigarh,Chandigarh,38,Male,Consumer
+CUST0002,Arjun Shah,Pune,Maharashtra,26,Female,Consumer
+CUST0003,Aditya Singh,Delhi,Delhi,35,Male,Small Business
+CUST0004,Riya Mehta,Bengaluru,Karnataka,35,Female,Small Business
+CUST0005,Aarav Gupta,Hyderabad,Telangana,48,Female,Corporate
+CUST0006,Karan Patel,Pune,Maharashtra,27,Male,Corporate
+CUST0007,Diya Patel,Mumbai,Maharashtra,59,Female,Consumer
+CUST0008,Priya Shah,Indore,Madhya Pradesh,28,Female,Consumer
+CUST0009,Sahil Malhotra,Jaipur,Rajasthan,44,Male,Small Business
+CUST0010,Vivaan Singh,Mumbai,Maharashtra,39,Male,Consumer
+CUST0011,Arjun Mehta,Surat,Gujarat,38,Female,Small Business
+CUST0012,Diya Gupta,Surat,Gujarat,44,Female,Consumer
+CUST0013,Amit Verma,Chandigarh,Chandigarh,59,Male,Small Business
+CUST0014,Vikram Gupta,Indore,Madhya Pradesh,50,Female,Corporate
+CUST0015,Riya Singh,Patna,Bihar,41,Male,Consumer
+CUST0016,Vivaan Patel,Surat,Gujarat,46,Female,Consumer
+CUST0017,Sneha Patel,Bengaluru,Karnataka,34,Female,Corporate
+CUST0018,Priya Gupta,Patna,Bihar,37,Male,Consumer
+CUST0019,Riya Shah,Indore,Madhya Pradesh,37,Female,Small Business
+CUST0020,Diya Singh,Kolkata,West Bengal,29,Female,Consumer
+CUST0021,Vivaan Verma,Bhopal,Madhya Pradesh,30,Male,Small Business
+CUST0022,Pooja Verma,Kolkata,West Bengal,45,Female,Small Business
+CUST0023,Kavya Kumar,Ahmedabad,Gujarat,56,Male,Small Business
+CUST0024,Arjun Shah,Indore,Madhya Pradesh,38,Female,Consumer
+CUST0025,Meera Gupta,Hyderabad,Telangana,50,Male,Small Business
+CUST0026,Amit Shah,Patna,Bihar,32,Male,Small Business
+CUST0027,Kavya Malhotra,Hyderabad,Telangana,33,Male,Corporate
+CUST0028,Rahul Shah,Bhopal,Madhya Pradesh,54,Male,Small Business
+CUST0029,Neha Sharma,Chennai,Tamil Nadu,28,Female,Corporate
+CUST0030,Vivaan Singh,Bengaluru,Karnataka,57,Male,Consumer
+CUST0031,Neha Verma,Indore,Madhya Pradesh,55,Male,Consumer
+CUST0032,Neha Shah,Chandigarh,Chandigarh,31,Female,Small Business
+CUST0033,Pooja Mehta,Surat,Gujarat,34,Male,Small Business
+CUST0034,Ishita Patel,Hyderabad,Telangana,49,Female,Consumer
+CUST0035,Vikram Verma,Bengaluru,Karnataka,42,Male,Small Business
+CUST0036,Vikram Malhotra,Jaipur,Rajasthan,35,Male,Consumer
+CUST0037,Vivaan Singh,Indore,Madhya Pradesh,25,Male,Corporate
+CUST0038,Kavya Singh,Mumbai,Maharashtra,38,Female,Consumer
+CUST0039,Rohan Malhotra,Jaipur,Rajasthan,57,Female,Consumer
+CUST0040,Neha Mehta,Bhopal,Madhya Pradesh,33,Male,Consumer
+CUST0041,Meera Patel,Chandigarh,Chandigarh,48,Female,Corporate
+CUST0042,Vivaan Verma,Surat,Gujarat,24,Female,Small Business
+CUST0043,Arjun Singh,Chennai,Tamil Nadu,33,Male,Small Business
+CUST0044,Rohan Mehta,Ahmedabad,Gujarat,32,Female,Corporate
+CUST0045,Aditya Joshi,Bengaluru,Karnataka,56,Male,Consumer
+CUST0046,Riya Sharma,Chandigarh,Chandigarh,26,Male,Consumer
+CUST0047,Neha Joshi,Kolkata,West Bengal,34,Female,Consumer
+CUST0048,Ishita Sharma,Pune,Maharashtra,45,Female,Corporate
+CUST0049,Meera Shah,Hyderabad,Telangana,52,Male,Consumer
+CUST0050,Karan Sharma,Hyderabad,Telangana,58,Male,Small Business
+CUST0051,Vivaan Sharma,Chennai,Tamil Nadu,58,Female,Small Business
+CUST0052,Kavya Gupta,Patna,Bihar,24,Male,Consumer
+CUST0053,Pooja Verma,Mumbai,Maharashtra,36,Female,Consumer
+CUST0054,Sneha Singh,Patna,Bihar,58,Male,Small Business
+CUST0055,Meera Malhotra,Mumbai,Maharashtra,57,Female,Corporate
+CUST0056,Ananya Singh,Bengaluru,Karnataka,37,Female,Consumer
+CUST0057,Sahil Joshi,Chandigarh,Chandigarh,41,Male,Consumer
+CUST0058,Pooja Malhotra,Ahmedabad,Gujarat,27,Male,Small Business
+CUST0059,Kavya Kumar,Bengaluru,Karnataka,29,Female,Consumer
+CUST0060,Vikram Patel,Patna,Bihar,39,Male,Corporate
+CUST0061,Riya Kumar,Surat,Gujarat,60,Male,Small Business
+CUST0062,Riya Kumar,Surat,Gujarat,27,Male,Corporate
+CUST0063,Arjun Shah,Mumbai,Maharashtra,30,Female,Corporate
+CUST0064,Karan Patel,Lucknow,Uttar Pradesh,34,Female,Small Business
+CUST0065,Amit Sharma,Ahmedabad,Gujarat,26,Female,Corporate
+CUST0066,Aarav Patel,Delhi,Delhi,29,Female,Consumer
+CUST0067,Priya Shah,Indore,Madhya Pradesh,48,Male,Consumer
+CUST0068,Rohan Shah,Mumbai,Maharashtra,23,Female,Small Business
+CUST0069,Rohan Mehta,Jaipur,Rajasthan,29,Male,Corporate
+CUST0070,Vivaan Patel,Chennai,Tamil Nadu,34,Male,Small Business
+CUST0071,Diya Shah,Mumbai,Maharashtra,47,Male,Consumer
+CUST0072,Rahul Gupta,Surat,Gujarat,47,Male,Consumer
+CUST0073,Ananya Mehta,Indore,Madhya Pradesh,36,Female,Consumer
+CUST0074,Arjun Mehta,Bhopal,Madhya Pradesh,23,Female,Consumer
+CUST0075,Priya Patel,Bengaluru,Karnataka,40,Male,Consumer
+CUST0076,Karan Mehta,Delhi,Delhi,42,Female,Consumer
+CUST0077,Amit Patel,Bhopal,Madhya Pradesh,53,Female,Small Business
+CUST0078,Riya Patel,Surat,Gujarat,22,Male,Corporate
+CUST0079,Sneha Kumar,Pune,Maharashtra,23,Male,Small Business
+CUST0080,Diya Patel,Kolkata,West Bengal,48,Male,Corporate
+CUST0081,Sneha Singh,Patna,Bihar,37,Male,Small Business
+CUST0082,Aarav Shah,Kolkata,West Bengal,55,Male,Corporate
+CUST0083,Aditya Patel,Kolkata,West Bengal,60,Female,Small Business
+CUST0084,Arjun Kumar,Surat,Gujarat,53,Female,Small Business
+CUST0085,Ananya Mehta,Kolkata,West Bengal,39,Male,Consumer
+CUST0086,Ishita Gupta,Kolkata,West Bengal,60,Female,Corporate
+CUST0087,Aarav Kumar,Jaipur,Rajasthan,39,Male,Corporate
+CUST0088,Sneha Malhotra,Bhopal,Madhya Pradesh,41,Female,Corporate
+CUST0089,Karan Shah,Ahmedabad,Gujarat,51,Male,Small Business
+CUST0090,Sahil Shah,Mumbai,Maharashtra,60,Female,Consumer
+CUST0091,Vikram Kumar,Surat,Gujarat,35,Male,Consumer
+CUST0092,Vivaan Singh,Delhi,Delhi,51,Male,Corporate
+CUST0093,Sneha Singh,Kolkata,West Bengal,45,Female,Corporate
+CUST0094,Rohan Sharma,Bengaluru,Karnataka,27,Female,Consumer
+CUST0095,Kavya Joshi,Pune,Maharashtra,24,Male,Consumer
+CUST0096,Rohan Joshi,Ahmedabad,Gujarat,54,Female,Corporate
+CUST0097,Kavya Mehta,Lucknow,Uttar Pradesh,56,Female,Consumer
+CUST0098,Neha Joshi,Indore,Madhya Pradesh,37,Male,Small Business
+CUST0099,Kavya Joshi,Hyderabad,Telangana,36,Female,Corporate
+CUST0100,Sahil Singh,Mumbai,Maharashtra,38,Female,Corporate
+CUST0101,Riya Verma,Patna,Bihar,29,Male,Consumer
+CUST0102,Rohan Singh,Kolkata,West Bengal,25,Female,Corporate
+CUST0103,Riya Joshi,Chennai,Tamil Nadu,47,Male,Consumer
+CUST0104,Meera Mehta,Surat,Gujarat,58,Male,Small Business
+CUST0105,Neha Sharma,Kolkata,West Bengal,43,Female,Corporate
+CUST0106,Meera Shah,Surat,Gujarat,55,Male,Corporate
+CUST0107,Amit Mehta,Bengaluru,Karnataka,52,Male,Corporate
+CUST0108,Ishita Gupta,Chennai,Tamil Nadu,50,Male,Small Business
+CUST0109,Aarav Mehta,Jaipur,Rajasthan,58,Male,Consumer
+CUST0110,Meera Gupta,Chandigarh,Chandigarh,50,Male,Consumer
+CUST0111,Ishita Patel,Hyderabad,Telangana,34,Female,Corporate
+CUST0112,Ishita Kumar,Chennai,Tamil Nadu,47,Female,Consumer
+CUST0113,Aarav Shah,Ahmedabad,Gujarat,24,Female,Consumer
+CUST0114,Aditya Sharma,Chandigarh,Chandigarh,22,Male,Consumer
+CUST0115,Aarav Malhotra,Surat,Gujarat,30,Male,Consumer
+CUST0116,Arjun Malhotra,Ahmedabad,Gujarat,34,Female,Small Business
+CUST0117,Diya Gupta,Hyderabad,Telangana,59,Male,Consumer
+CUST0118,Arjun Malhotra,Hyderabad,Telangana,22,Female,Small Business
+CUST0119,Ishita Mehta,Chandigarh,Chandigarh,33,Male,Small Business
+CUST0120,Vikram Verma,Indore,Madhya Pradesh,40,Male,Small Business
