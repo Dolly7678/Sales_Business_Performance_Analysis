@@ -1,11 +1,12 @@
-Sales_Business_Performance_Analysis
-Project Overview
+#Sales_Business_Performance_Analysis
+#Project Overview
 This project focuses on analyzing sales and business performance using data analytics tools such as Excel, PostgreSQL and Power BI.
 
 The objective of this project is to analyze sales trends, profitability, customer behavior, product performance, and regional business performance to generate meaningful business insights and support data-driven decision-making.
 
 The project uses three datasets: Customers, Products, and Orders.
-Business Objectives
+
+#Business Objectives
 . Analyze overall sales and profit performance.
 . Identify top-performing products and categories.
 . Understand customer purchasing behavior.
@@ -16,7 +17,7 @@ Compare sales and profitability across different states.
 
 Identify business opportunities and areas for improvement.
 
-Tools & Technologies
+#Tools & Technologies
 . Microsoft Excel
 . Data validation, cleaning, and initial analysis
 . PostgreSQL
@@ -25,7 +26,7 @@ Tools & Technologies
 Power BI
 . Data modeling, DAX measures, and interactive dashboard
 
-GitHub
+#GitHub
 
 Project documentation and portfolio
 Dataset Description
